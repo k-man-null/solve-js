@@ -1,0 +1,21 @@
+
+section {
+    width: max-content;
+    margin: 0 auto;
+}
+
+section > div {
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 30px auto;
+    background: white;
+    color: rgb(41, 41, 41, 0.65);
+    border: 2px solid rgb(41, 41, 41, 0.4);
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    box-shadow: 1px 1px 10px rgb(200, 200, 200);
+}
